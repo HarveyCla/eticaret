@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eticaret/static/css/main.8bc50aa2.css",
+    "main.js": "/eticaret/static/js/main.d4a9b1bc.js",
+    "index.html": "/eticaret/index.html",
+    "main.8bc50aa2.css.map": "/eticaret/static/css/main.8bc50aa2.css.map",
+    "main.d4a9b1bc.js.map": "/eticaret/static/js/main.d4a9b1bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bc50aa2.css",
+    "static/js/main.d4a9b1bc.js"
+  ]
+}
